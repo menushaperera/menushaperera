@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Menusha Perera</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, and PHP to build dynamic and responsive web applications.**
 
