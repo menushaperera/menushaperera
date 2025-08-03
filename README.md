@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm **Menusha Perera**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+%26+ML+Enthusiast;Problem+Solver;Building+the+Future" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+%26+ML+Enthusiast;IoT+Enthusiast;" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=menushaperera155&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -26,37 +26,6 @@
 🎯 Focused on creating scalable web applications and intuitive user experiences  
 
 </div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 💻 **Code**
-JavaScript • PHP • Java  
-C# • C • HTML/CSS
-
-</td>
-<td align="center" width="33%">
-
-### 🛠️ **Technologies**
-**Backend:** Node.js, Laravel, PHP  
-**Frontend:** HTML5, CSS3, JavaScript  
-**Styling:** Tailwind CSS, Bootstrap  
-**Database:** MySQL, PostgreSQL, Supabase  
-**IoT:** Arduino IDE
-
-</td>
-<td align="center" width="33%">
-
-### 🎯 **Focus Areas**
-🚀 Full-Stack Development  
-🎨 UI/UX Design  
-🤖 AI & Machine Learning  
-🔌 Arduino & IoT Projects
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
