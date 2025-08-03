@@ -19,20 +19,51 @@
 
 </div>
 
-```javascript
-const menusha = {
-    code: ["JavaScript", "PHP", "Java", "C#", "C", "HTML/CSS"],
-    technologies: {
-        backend: ["Node.js", "Laravel", "PHP"],
-        frontend: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Bootstrap"],
-        databases: ["MySQL", "SQL Server"],
-        tools: ["Git", "Linux", "Figma"],
-    },
-    currentFocus: "Building scalable full-stack applications",
-    interests: ["AI & Machine Learning", "UI/UX Design", "Automation"],
-    funFact: "I build bots in my free time and love exploring new destinations! 🌍"
-};
-```
+<div align="center">
+
+🔥 **Passionate Full-Stack Developer** building dynamic, efficient, and modern applications  
+💻 Blending backend logic with clean and responsive frontend design  
+🎯 Focused on creating scalable web applications and intuitive user experiences  
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 💻 **Code**
+JavaScript • PHP • Java  
+C# • C • HTML/CSS
+
+</td>
+<td align="center" width="33%">
+
+### 🛠️ **Technologies**
+**Backend:** Node.js, Laravel, PHP  
+**Frontend:** HTML5, CSS3, JavaScript  
+**Styling:** Tailwind CSS, Bootstrap  
+**Database:** MySQL, PostgreSQL, Supabase  
+**IoT:** Arduino IDE
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 **Focus Areas**
+🚀 Full-Stack Development  
+🎨 UI/UX Design  
+🤖 AI & Machine Learning  
+🔌 Arduino & IoT Projects
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### ⚡ **Fun Fact**
+*When I'm not coding, you'll find me building automated bots for simple tasks or exploring new places as a traveler! 🌍✈️*
+
+</div>
 
 ---
 
@@ -50,7 +81,7 @@ const menusha = {
 - Advanced Laravel Features
 - React.js & Vue.js
 - Machine Learning Algorithms
-- Cloud Technologies (AWS/GCP)
+- Arduino IDE & IoT Development
 
 </td>
 <td align="center" width="50%">
@@ -97,7 +128,14 @@ const menusha = {
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
+
+### **IoT & Hardware**
+<p>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
+  <img src="https://img.shields.io/badge/IoT-FF6B35?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT"/>
 </p>
 
 ### **Tools & Platforms**
@@ -118,17 +156,18 @@ const menusha = {
 
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menushaperera155&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menushaperera155&layout=compact&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=menushaperera155&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menushaperera155&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=menushaperera155&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=menushaperera155&theme=radical&hide_border=true" alt="Coding Activity"/>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menushaperera155&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=menushaperera155&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=menushaperera155&theme=radical" alt="Activity Graph"/>
 </div>
 
 ---
